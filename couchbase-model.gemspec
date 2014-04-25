@@ -3,7 +3,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'couchbase/model/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'couchbase-model'
+  s.name        = 'jmoses-couchbase-model'
   s.version     = Couchbase::Model::VERSION
   s.author      = ['Couchbase', 'Jon Moses']
   s.email       = ['support@couchbase.com', 'jon@burningbush.us']
